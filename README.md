@@ -118,7 +118,7 @@ def user_input(city):
         print("\nThis took %s seconds." % (time.time() - start_time))
         print('-'*40)
 
-
+# Will display the statistic on user time.
     def user_stats(df):
         """Displays statistics on bikeshare users."""
 
